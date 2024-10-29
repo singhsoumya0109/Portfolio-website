@@ -11,7 +11,8 @@
   /* --first-color: hsl(var(--hue-color), 89%, 60%); */
   --first-color: #0cca98;
   /* --second-color: hsl(var(--hue-color), 56%, 12%); */
-  --second-color: #51366a;
+  /* --second-color: #51366a; */
+  --second-color: #c014ef; 
   /*===== Fuente y tipografia =====*/
   --body-font: "Poppins", sans-serif;
   --big-font-size: 2rem;
